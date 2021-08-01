@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: PyStaticConfiguration
+Version: 0.10.5
+Summary: A python library for loading static configuration
+Home-page: https://github.com/dnephin/PyStaticConfiguration
+Author: Daniel Nephin
+Author-email: dnephin@gmail.com
+License: APACHE20
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Intended Audience :: Developers
+Classifier: Development Status :: 5 - Production/Stable
+Provides: staticconf
+Provides-Extra: yaml
